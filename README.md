@@ -71,7 +71,7 @@
                 <img
                     src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"
                     alt="bootstrap"
-                    width="40"
+                    width="50"
                     height="40"
                 />
             </a>
