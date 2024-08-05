@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm  Federico Romero Miteff </h1>
+<h1 align="center">Hi, I'm  Federico Romero Miteff👋 </h1>
 <h3 align="center"> I'm a Full-Stack Developer from Argentina</h3>
 
 <p align="center">I am a creative and passionate full-stack developer with eager to continue improving my skills in high-tech languages.</p>
