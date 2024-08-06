@@ -138,7 +138,7 @@
                 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" />
             </a>
                    <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="json" width="50" height="50" />
+                <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="json" width="60" height="50" />
             </a>
         </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&locale=en" alt="" /></p>
