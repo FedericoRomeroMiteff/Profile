@@ -15,11 +15,11 @@
 <h3 align="left">Contacto:</h3>
 <ul>
         <li><p align="left">
-<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="-" height="30" width="40" /></a> <a href="https://linkedin.com/in/-">Linkedln</a>
+<a href="https://www.linkedin.com/in/federicoromeromiteff/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="-" height="30" width="40" /></a> <a href="https://linkedin.com/in/-">Linkedln</a>
 </p></li>
         <li>
                 <p align="left">
-                        <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail-" height="30" width="40" />                                                   @gmail.com
+                        <img align="center" src="https://www.google.com/imgres?q=outlook%20logo%20svg&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fdf%2FMicrosoft_Office_Outlook_%25282018%25E2%2580%2593present%2529.svg&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AMicrosoft_Office_Outlook_(2018%25E2%2580%2593present).svg&docid=iOCx0pBEYSHJVM&tbnid=thTMoGrUcYNg4M&vet=12ahUKEwiwgp_Irt-HAxV7rpUCHZfhASwQM3oECBoQAA..i&w=800&h=745&hcb=2&ved=2ahUKEwiwgp_Irt-HAxV7rpUCHZfhASwQM3oECBoQAA" alt="gmail-" height="30" width="40" />                                                   @gmail.com
                 </p>
         </li>
 </ul>
