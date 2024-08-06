@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm  Federico Romero Miteff👋 </h1>
-<h3 align="center"> I'm a Full-Stack Developer from Buenos Aires,Argentina</h3>
+<h3 align="center">Full-Stack Developer from Buenos Aires,Argentina</h3>
 
 <p align="center">I am a creative and passionate developer with eager to continue improving my skills in high-tech languages.</p>
-<p align="center">Such as consolidating and researching principles, carrying out good practices and development methodologies.</p>
+<p align="center">Skilled at consolidating and researching principles, carrying out good practices and software development methodologies.</p>
 
 
 <h2 align="left">Programming Languages and Frameworks</h2>
