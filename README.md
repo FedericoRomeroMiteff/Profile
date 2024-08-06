@@ -19,7 +19,7 @@
 </p></li>
         <li>
                 <p align="left">
-                        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" alt="email" height="40" width="40" />                                                   federomeromiteff@hotmail.com
+ <a href="https://www.outlook.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" alt="email" height="40" width="40" /> <a href="https://outlook.com/">Federomeromiteff@hotmail.com</a>
                 </p>
         </li>
 </ul>
@@ -97,6 +97,14 @@
             </a>
 <h3 align="left">Database</h3>
         <p align="left">
+                <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
+                <img
+                    src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg"
+                    alt="mariadb"
+                    width="50"
+                    height="50"
+                />
+            </a>
             <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
                 <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
