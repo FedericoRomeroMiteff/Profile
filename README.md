@@ -75,14 +75,6 @@
                     height="40"
                 />
             </a>
-                <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-                <img
-                    src="https://www.vectorlogo.zone/logos/python/python-vertical.svg"
-                    alt="bootstrap"
-                    width="40"
-                    height="40"
-                />
-            </a>
         </p>
 
 <h3 align="left">Backend</h3>
@@ -95,15 +87,14 @@
                     height="40"
                 />
             </a>
-            <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+         <a href="https://www.python.org/" target="_blank" rel="noreferrer">
                 <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-                    alt="express"
+                    src="https://www.vectorlogo.zone/logos/python/python-vertical.svg"
+                    alt="bootstrap"
                     width="40"
                     height="40"
-            /></a>
-        </p>
-
+                />
+            </a>
 <h3 align="left">Database</h3>
         <p align="left">
             <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
