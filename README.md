@@ -24,7 +24,7 @@
         </li>
 </ul>
 
-<h2 align="left">Tengo conocimientos en:</h2>
+<h2 align="left">Programming Languages and Frameworks</h2>
 
 <h3 align="left">Frontend</h3>
         <p align="left">
