@@ -4,7 +4,6 @@
 <p align="center">I am a creative and passionate developer with eager to continue improving my skills in high-tech languages.</p>
 <p align="center">Skilled at consolidating and researching principles, carrying out good practices and software development methodologies.</p>
 
-
 <h2 align="left">Programming Languages and Frameworks</h2>
 
 <h3 align="left">Frontend</h3>
@@ -139,7 +138,6 @@
         
 <h2 align="left">Projects</h2>
 
-       
 <h2 align="left">Contact Information</h2>
 <ul>
         <p align="left">
