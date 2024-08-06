@@ -137,8 +137,10 @@
             <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
                 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
             </a>
+                   <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="json" width="40" height="40" />
+            </a>
         </p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&locale=en" alt="" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=&" alt="" /></p>
