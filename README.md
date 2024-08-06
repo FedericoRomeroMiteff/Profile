@@ -137,6 +137,11 @@
         </p>
         
 <h2 align="left">Projects</h2>
+ <p align="left">
+            <a href="https://github.com/FedericoRomeroMiteff/JavaScript" target="_blank" rel="noreferrer">
+                <img src="![Cotizaciondedivisas](https://github.com/user-attachments/assets/c10dc647-1b5f-4147-9f4a-15e9eef05b3c)
+" alt="git" width="60" height="60" />
+            </a>
 
 <h2 align="left">Contact Information</h2>
 <ul>
