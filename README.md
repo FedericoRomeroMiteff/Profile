@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm  Federico Romero Miteff👋 </h1>
-<h3 align="center"> I'm a Full-Stack Developer from Buenos Aires,Argentina![image](https://github.com/user-attachments/assets/3d75a7d6-9d15-4db2-b743-a529b48a9668)
-</h3>
+<h3 align="center"> I'm a Full-Stack Developer from Buenos Aires,Argentina</h3>
 
 <p align="center">I am a creative and passionate full-stack developer with eager to continue improving my skills in high-tech languages.</p>
 <p align="center">Tengo 2 años de experiencia, trabajé para Toyota Argentina como Pasante de Ingeniería en Sistemas y para Scale AI como Entrenador de Inteligencia Artificial</p>
