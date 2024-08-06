@@ -140,17 +140,18 @@
             </a>
         </p>
 
-<h3 align="left">Other</h3>
+<h3 align="left">Others</h3>
         <p align="left">
             <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" />
+                <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="50" />
             </a>
                    <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer">
                 <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="json" width="60" height="50" />
             </a>
+                <a href="https://www.debian.org/index.es.html" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg" alt="debian" width="60" height="50" />
+            </a>
+                <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux" width="70" height="60" />
+            </a>
         </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&locale=en" alt="" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=&" alt="" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=&show_icons=true&locale=en&layout=compact" alt="" /></p>
