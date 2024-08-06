@@ -1,28 +1,9 @@
 <h1 align="center">Hi, I'm  Federico Romero Miteff👋 </h1>
 <h3 align="center"> I'm a Full-Stack Developer from Buenos Aires,Argentina</h3>
 
-<p align="center">I am a creative and passionate full-stack developer with eager to continue improving my skills in high-tech languages.</p>
-<p align="center">Tengo 2 años de experiencia, trabajé para Toyota Argentina como Pasante de Ingeniería en Sistemas y para Scale AI como Entrenador de Inteligencia Artificial</p>
+<p align="center">I am a creative and passionate developer with eager to continue improving my skills in high-tech languages.</p>
+<p align="center">Such as consolidating and researching principles, carrying out good practices and development methodologies.</p>
 
-<h4 align="left">Actualmente me dedico a:</h4>
-
-<ul>
-        <li> Reforzar conocimientos sobre el stack tecnológico MERN y otras tecnologías</li>
-        <li> Afianzar e investigar principios, realizar buenas prácticas y metodologías de desarrollo</li>
-        <li> Realizar proyectos full stack </li>
-</ul>
-
-<h3 align="left">Contact Information</h3>
-<ul>
-        <li><p align="left">
-<a href="https://www.linkedin.com/in/federicoromeromiteff/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="-" height="40" width="40" /></a> <a href="https://linkedin.com/in/-">Linkedln</a>
-</p></li>
-        <li>
-                <p align="left">
- <a href="https://www.outlook.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" alt="email" height="40" width="40" /> <a href="https://outlook.com/">Federomeromiteff@hotmail.com</a>
-                </p>
-        </li>
-</ul>
 
 <h2 align="left">Programming Languages and Frameworks</h2>
 
@@ -155,3 +136,13 @@
                 <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux" width="70" height="60" />
             </a>
         </p>
+        <h2 align="left">Contact Information</h2>
+<ul>
+        <p align="left">
+<a href="https://www.linkedin.com/in/federicoromeromiteff/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" /></a> <a href="https://linkedin.com/in/-">Linkedln</a>
+</p>
+<p align="left">
+ <a href="https://www.outlook.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" alt="email" height="40" width="40" /> <a href="https://outlook.com/">Federomeromiteff@hotmail.com</a>
+                </p>
+
+</ul>
