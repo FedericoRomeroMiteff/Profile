@@ -2,6 +2,7 @@
 <h3 align="center">Full-Stack Developer from Buenos Aires,Argentina</h3>
 
 <p align="center">I am a creative and passionate developer with eager to continue improving my skills in high-tech languages.</p>
+<p align="center">Experienced in development of database, websites, e-commerce, applications in Python.</p>
 <p align="center">Skilled at consolidating and researching principles, carrying out good practices and software development methodologies.</p>
 
 <h2 align="left">Programming Languages and Frameworks</h2>
@@ -139,7 +140,7 @@
 <h2 align="left">Projects</h2>
  <p align="left">
             <a href="https://github.com/FedericoRomeroMiteff/JavaScript" target="_blank" rel="noreferrer">
-                <img src="" alt="JS" width="60" height="60" />
+                <img src='![Cotizaciondedivisas](https://github.com/user-attachments/assets/5ae4a83b-cb58-475a-8c62-0efe6d83cde3)' alt="JS" width="60" height="60" />
             </a>
  </p>
 <h2 align="left">Contact Information</h2>
