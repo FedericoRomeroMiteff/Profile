@@ -64,15 +64,15 @@
                 <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
                     alt="nodejs"
-                    width="60"
+                    width="70"
                     height="60"
                 />
             </a>
          <a href="https://www.python.org/" target="_blank" rel="noreferrer">
                 <img
                     src="https://www.vectorlogo.zone/logos/python/python-vertical.svg"
-                    alt="bootstrap"
-                    width="60"
+                    alt="python"
+                    width="50"
                     height="60"
                 />
             </a>
@@ -82,7 +82,7 @@
                 <img
                     src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg"
                     alt="mariadb"
-                    width="60"
+                    width="70"
                     height="60"
                 />
             </a>
@@ -90,7 +90,7 @@
                 <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
                     alt="postgresql"
-                    width="60"
+                    width="70"
                     height="60"
                 />
             </a>
@@ -98,7 +98,7 @@
                 <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
                     alt="mongodb"
-                    width="60"
+                    width="70"
                     height="60"
                 />
             </a>
@@ -109,7 +109,7 @@
                 <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
                     alt="mysql"
-                    width="60"
+                    width="70"
                     height="60"
                 />
             </a>
@@ -117,20 +117,20 @@
 <h3 align="left">Database as a Service</h3>
         <p align="left">
             <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60" />
+                <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="70" height="60" />
             </a>
         </p>
 
 <h3 align="left">Others</h3>
         <p align="left">
             <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60" />
+                <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="60" />
             </a>
                    <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="json" width="60" height="60" />
+                <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="json" width="70" height="60" />
             </a>
                 <a href="https://www.debian.org/index.es.html" target="_blank" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg" alt="debian" width="60" height="60" />
+                <img src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg" alt="debian" width="70" height="60" />
             </a>
                 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
                 <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux" width="70" height="60" />
@@ -139,8 +139,18 @@
         
 <h2 align="left">Projects</h2>
  <p align="left">
-        <a href="https://github.com/FedericoRomeroMiteff/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src='https://github.com/user-attachments/assets/5ae4a83b-cb58-475a-8c62-0efe6d83cde3' alt="JS" height="150" />
+        <a href="https://cotizaciondedivisasfrm.netlify.app/" target="_blank" rel="noreferrer"> 
+                <img src='https://github.com/user-attachments/assets/5ae4a83b-cb58-475a-8c62-0efe6d83cde3' alt="JS" height="200" />
+        </a>
+ </p>
+ <p align="left">
+        <a href="https://maquinasvialesdanielromero.netlify.app/" target="_blank" rel="noreferrer"> 
+                <img src='https://github.com/user-attachments/assets/42b60838-5a1d-47dc-aad0-ad66dd3236ab' alt="reactjs" height="200" />
+        </a>
+ </p>
+  <p align="left">
+        <a href="https://maquinasvialesdr.netlify.app/" target="_blank" rel="noreferrer"> 
+                <img src='https://github.com/user-attachments/assets/70e5167f-37ea-4696-8590-39fec4a43fc0' alt="HTML-CSS3-SASS-JS" height="200" />
         </a>
  </p>
 <h2 align="left">Contact Information</h2>
